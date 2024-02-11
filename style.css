@@ -309,9 +309,9 @@ section.first-second > div{
 }
 @media only screen and (max-width: 500px) {
     .thirdImg video {
-        width: 240px;
+        width: 235px;
         top: 45px;
-        left: 45px;
+        left: 33px;
     }
 }
 @media only screen and (max-width: 500px) {
