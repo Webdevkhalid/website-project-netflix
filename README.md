@@ -1,2 +1,1 @@
-# My-First-Clone-Website-Netflix
-I created this clone using HTML and CSS
+My First HTML and CSS Netflix Clone Website
